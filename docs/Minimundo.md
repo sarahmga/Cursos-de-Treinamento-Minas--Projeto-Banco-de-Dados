@@ -1,0 +1,7 @@
+## MINIMUNDO
+
+Na empresa Minas Tênis Clube, os funcionários têm a possibilidade de fazer treinamentos de forma interna, com outros colaboradores capacitados para realizar os programas de desenvolvimento, ou de forma externa, em que é necessário contratar outra empresa para realizar serviço de curso.
+
+Neste caso, o colaborador (que tem CPF, nome, CTPS, área, matrícula, data de nascimento e cargo) que demonstrar interesse em realizar o curso externo, deve preencher um formulário físico (que apresenta os campos para preenchimento de  nome do solicitante, matrícula, CPF, cargo, data de nascimento  informações que cada funcionário deve ter - data, setor, nome do curso, link ou forma de contato com a possível empresa contratada,  assinatura do chefe imediato da área do funcionário, assinatura do gestor do Departamento de Recursos Humanos e formato do curso - online, presencial ou híbrido - caso seja presencial, é necessário colocar o endereço. 
+Este documento é levado para o gestor da área do funcionário, que avalia se é pertinente ou não para o profissional e o seu trabalho realizado na empresa. Caso haja a aprovação, o papel é levado para a analista de treinamento do RH, que também é uma funcionária e avalia de forma crítica o formulário. Após a validação da analista, o formulário vai para o gestor do RH, que dá a aprovação final.
+A questão principal do problema é que o funcionário não sabe o status do formulário, se foi aprovado ou reprovado, por ser tudo feito de maneira manual.
