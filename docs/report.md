@@ -16,7 +16,7 @@ A discussão focou em detalhar o fluxo atual, que passa por diversos setores (fu
 
 Evidência da Reunião de Levantamento de Requisitos.
 
-![Screenshot Primeira Reuniao](docs/images/print_reuniao.jpg)
+![Screenshot Primeira Reuniao](https://github.com/sarahmga/Cursos-de-Treinamento-Minas--Projeto-Banco-de-Dados/blob/main/docs/images/print_reuniao.jpg)
 
 Figura 1: Print da reunião de levantamento de requisitos com a equipe do projeto.
 
