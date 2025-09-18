@@ -5,6 +5,7 @@ Repositório destinado aos arquivos relacionados ao Projeto respectivo ao 2º se
  * Beatriz Azevedo
  * Izabela Dobscha
  * Mariana Andrade
+ * Mirella Melo
  * Paula Meireles
  * Sarah Mariana
 ## Professor
